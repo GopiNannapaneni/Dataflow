@@ -1,0 +1,9 @@
+{
+	"name": "gkdataflow",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fa3566c4-50f4-43a0-9b8a-1fb014e9f1b3",
+		"tenantId": "8faaeb77-58f2-4365-a62c-9ba191566dd1"
+	}
+}
